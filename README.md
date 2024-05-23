@@ -377,6 +377,3 @@ frontend
                         └─petpal
                             └─control
 ```
-
-## Webhook 활용 알림
-![image.png](asset/webhook.png)
